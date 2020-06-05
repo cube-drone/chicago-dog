@@ -15,6 +15,14 @@
 
 ---
 
+<miloslav> did you build all of this yourself?
+<cube_drone> obviously no, this is the work of many talented people, I just slapped together a VM with a cool Ubuntu in it
+<miloslav> this is XFCE, right?
+<cube_drone> yup, with the excellent [Chicago95 theme](https://github.com/grassmunk/Chicago95) pulling most of the load
+<miloslav> huh, nice
+
+---
+
 <ShittyShellshock> how do I turn it off?
 <Spaiku> you can't
 <Spaiku> now you're in it forever
