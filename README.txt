@@ -6,6 +6,7 @@
 <ShittyShellshock> i'm not a magician
 <Spaiku> download and install VirtualBox
 <Spaiku> download and install Vagrant
+<Spaiku> you're going to want a relatively recent copy
 <Spaiku> then, open this directory in a COMMAND LINE
 <Spaiku> and type in "vagrant up"
 <ShittyShellshock> a command line? what is this, 1992?
